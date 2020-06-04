@@ -2,7 +2,7 @@
 
 ## Introduction
 
-There is a great crowd-sourced website for climbers called Mountainproject.org. I have always thought that the search feature could be better. This project will attempt to solve for the best multi pitch routes in the world, using Pandas data analysis 
+There is a great crowd-sourced website for climbers called Mountainproject.com. I have always thought that the search feature could be better. This project will attempt to solve for the best multi pitch routes in the world, using Pandas data analysis 
 
 ## Data Dictionary
 
