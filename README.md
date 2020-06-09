@@ -33,6 +33,6 @@ X: No protection, very dangerous or a fall that could result in death even when 
 
 * [Final Report Notebook](report.ipynb)
 * [EDA Notebook](eda.ipynb)
-* [Link 1](http://www.google.com) - Some cool stuff
-* [Link 2](http://www.google.com) - More cool stuff
-* [Link 3](http://www.google.com) - Even more cool stuff
+* [Link 1](http://www.mountainproject.com) - Cool climbing website
+* [Link 2](https://en.wikipedia.org/wiki/Sport_climbing) - Sport climbing explained
+* [Link 3](https://www.youtube.com/watch?v=2F0MPMcSEMg) - Outside climbing
