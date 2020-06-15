@@ -31,8 +31,8 @@ X: No protection, very dangerous or a fall that could result in death even when 
 
 ## Important Links
 
-* [Final Report Notebook](report.ipynb)
-* [EDA Notebook](eda.ipynb)
+* [Final Report Notebook](http://localhost:8888/notebooks/report.ipynb#)
+* [EDA Notebook](http://localhost:8888/notebooks/eda.ipynb)
 * [Link 1](http://www.mountainproject.com) - Cool climbing website
 * [Link 2](https://en.wikipedia.org/wiki/Sport_climbing) - Sport climbing explained
 * [Link 3](https://www.youtube.com/watch?v=2F0MPMcSEMg) - Outside climbing
