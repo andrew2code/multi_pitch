@@ -2,7 +2,7 @@
 
 ## Introduction
 
-There is a great crowd-sourced website for climbers called Mountainproject.com. I have always thought that the search feature could be better. I want to find places to go that will leave unforgettable memories. For me, this means multi pitch routes. This project will attempt to solve for the best multi pitch routes in the world, using Pandas data analysis.
+There is a great crowd-sourced website for climbers called Mountainproject.com. I have always thought that the search feature could be better. I want to find places to go that will leave unforgettable memories. For me, this means multi pitch routes. Moreover, is there a strategic approach I can apply to reach my dreams of climbing the longest routes in the world! 
 
 ## Data Dictionary
 
